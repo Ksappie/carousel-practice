@@ -1,0 +1,9 @@
+.carousel-item {
+    max-height:600px;
+    overflow: hidden;
+}
+
+.carousel-caption {
+    position: relative;
+    top: 70%;
+}
